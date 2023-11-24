@@ -542,7 +542,14 @@ margin-left: 35px;
 #blackSection .container .BlackSectionBox p {
   font-size: 22px;
 }
-
+#blackSection marquee {
+  font-size: 12rem;
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+}
+#blackSection marquee strong{
+  color: #dbc481;
+}
 
 #blackSection .container .BlackSectionBox .row:hover .circle{
 background-color: #dbc481;
